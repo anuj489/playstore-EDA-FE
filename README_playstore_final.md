@@ -95,12 +95,8 @@ The cleaned dataset is saved as:
 
 **Anuj Agarwal**  
 Data Analyst | Python Enthusiast  
-Email: [your-email@example.com]  
-GitHub: [your-github-link]  
-LinkedIn: [your-linkedin-link]
+Email: anuj489@gmail.com
+
 
 ---
 
-## 📘 License
-
-This project is intended for educational and portfolio purposes.
