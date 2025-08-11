@@ -1,7 +1,6 @@
-
 # 📱 Google Play Store Data Cleaning & EDA with Python
 
-This project involves cleaning and preprocessing raw Google Play Store data to prepare it for further analysis and visualization. It primarily focuses on data cleaning, transformation, and exploratory steps to build a reliable dataset for future modeling and insights.
+This project involves cleaning and preprocessing raw data of Google Play Store data to prepare it for further analysis and visualization. It primarily focuses on data cleaning, transformation, and exploratory steps to build a reliable dataset for future modeling and insights.
 
 ---
 
@@ -97,6 +96,4 @@ The cleaned dataset is saved as:
 Data Analyst | Python Enthusiast  
 Email: anuj489@gmail.com
 
-
 ---
-
